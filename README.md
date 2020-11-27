@@ -11,6 +11,7 @@
   - You can toggle the task between completed and not completed.
   - You can edit the tasks.
   - You can also delete the completed tasks.
+  - The cool feature of this application is that whichever the task you are adding to the list it will be persistent, means it will not get deleted if the browser  	is refreshed.
   
 # To run this file into your local computer, follow the steps:
 
