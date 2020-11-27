@@ -6,6 +6,12 @@
 
   Todo List is simple and awesome app to organize your tasks with very easy to use interface. Todo can help you to make list of your tasks and help you to acheive     them to be successful in your life. It reminds you about your work to be done. I believe that you will only focus on your tasks, which is most important.
   
+  The Features for this applications are : 
+  - You can add the tasks.
+  - You can toggle the task between completed and not completed.
+  - You can edit the tasks.
+  - You can also delete the completed tasks.
+  
 # To run this file into your local computer, follow the steps:
 
   1. Navigate to the your directory to the location where you want the clone this project.
